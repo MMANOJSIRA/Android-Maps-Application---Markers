@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sira_maps">Map</string>
+    <string name="action_search">Search</string>
+</resources>
